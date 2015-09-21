@@ -11,7 +11,7 @@
 
     <div class="category-preview col-xs-6 col-sm-4 ">
         <h2>Itempage</h2>
-        <a href="category.php?id=itempage"><img src="img/cover-6.jpg" alt="category-image"></a>
+        <a href="category.php?id=itempage"><img src="img/cover-13.jpg" alt="category-image"></a>
     </div>
 
     <div class="category-preview col-xs-6 col-sm-4 ">
